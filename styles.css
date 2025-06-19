@@ -1,0 +1,405 @@
+body {
+  font-family: sans-serif;
+  background: #ffffff;
+  padding: 48px;
+}
+
+h1 {
+  text-align: center;
+  display: inline-block;
+  font-size: 72px;
+}
+
+.logo {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 568;
+  font-style: normal;
+  text-align: center;
+}
+.text {
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#image {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+/* Loading Screen Styles */
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.95);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.loading-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.loading-content {
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 90%;
+  border: 1px solid #e0f2e0;
+}
+
+.loading-text {
+  color: #2e7d32;
+  font-size: 24px;
+  margin: 15px 0 5px;
+  font-family: "Cal Sans", sans-serif;
+}
+
+.loading-subtext {
+  color: #757575;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.loading-progress {
+  margin: 20px 0;
+}
+
+.loading-progress .progress-fill {
+  background-color: #4caf50;
+  transition: width 0.5s ease;
+}
+
+/* Medical Icon and Heartbeat Animation */
+.medical-icon {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 15px;
+  position: relative;
+}
+
+.heartbeat-line {
+  width: 100%;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+}
+
+.heartbeat {
+  fill: none;
+  stroke: #4caf50;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 3s linear infinite;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Enhanced file input area */
+.file-upload-area {
+  position: relative;
+  width: 100%;
+  min-height: 200px;
+  border: 3px dashed #4caf50;
+  border-radius: 10px;
+  background-color: #f9fff9;
+  padding: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.file-upload-area:hover {
+  background-color: #e8f5e9;
+  border-color: #2e7d32;
+}
+
+.file-upload-area input[type="file"] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.upload-icon {
+  font-size: 48px;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.upload-text {
+  font-size: 20px;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.upload-subtext {
+  font-size: 14px;
+  color: #757575;
+}
+
+/* Image preview area */
+.image-preview-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.image-preview {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.image-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-preview .remove-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 14px;
+  color: #ff5252;
+}
+
+#input {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+#input:hover {
+  background-color: #45a049;
+}
+
+#output {
+  margin-top: 30px;
+}
+
+.result-container {
+  margin-bottom: 20px;
+  display: inline-block;
+  width: 45%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.result-container img {
+  width: 100%;
+  height: auto;
+}
+
+.result-container div {
+  margin-top: 10px;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+}
+
+.chat-output {
+  background-color: #e9f5e9;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.chat-output h3 {
+  color: #333;
+}
+
+.chat-output pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  color: #444;
+}
+
+/* Progress bar styles - updated to fill vertical space */
+.progress-container {
+  margin: 12px 0;
+  width: 100%;
+}
+
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.progress-bar {
+  height: 20px; /* Increased height */
+  border-radius: 6px;
+  background-color: #e0e0e0;
+  overflow: hidden;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+}
+
+/* Different colors for different conditions */
+.melanocytic {
+  background-color: #8884d8;
+}
+.melanoma {
+  background-color: #ff5252;
+}
+.dermatofib {
+  background-color: #82ca9d;
+}
+.actinic {
+  background-color: #ffc658;
+}
+.basal {
+  background-color: #ff8a65;
+}
+.benign {
+  background-color: #4db6ac;
+}
+.vascular {
+  background-color: #7986cb;
+}
+.common {
+  background-color: #9ccc65;
+}
+
+.analysis-section {
+  margin-bottom: 30px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.analysis-section h2 {
+  color: #2e7d32;
+  border-bottom: 2px solid #e8f5e9;
+  padding-bottom: 10px;
+  margin-top: 0;
+}
+
+.analysis-section ul {
+  padding-left: 20px;
+}
+
+.analysis-section li {
+  margin-bottom: 8px;
+}
+
+.conclusion {
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #e8f5e9;
+  border-radius: 5px;
+}
+
+.disclaimer {
+  font-size: 12px;
+  font-style: italic;
+  color: #757575;
+  margin-top: 20px;
+}
+
+.analysis-header {
+  color: #2e7d32;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e8f5e9;
+}
+
+/* Subheading style without # symbols */
+.subheading {
+  color: #2e7d32;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .result-container {
+    width: 100%;
+  }
+  
+  body {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 48px;
+  }
+  
+  .loading-content {
+    padding: 20px;
+  }
+}
