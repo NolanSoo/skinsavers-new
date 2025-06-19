@@ -10,5 +10,5 @@ JavaScript/Frontend Info:
 - We used several modules: TensorFlow.JS, ONNX Web Runtime, Groq API/SDK (SDK almost always fails so it falls back to the API)
 - Tensorflow.js: Uses the model file (.ONNX) and runs each image through the model
 - ONNX Web Runtime: Allows us to use our ONNX model file (converted from PyTorch) 
-- Groq Chatbot AI API/SDK: Groq is the chatbot API we are using as our AI assistant - giving world-class analysis anywhere in the world (this website works on all devices including computers and smartphones - basically any electronic device with a camera/file system and a web browser)
+- Groq API/SDK: Groq is the chatbot API we are using as our AI assistant - giving world-class analysis anywhere in the world (this website works on all devices including computers and smartphones - basically any electronic device with a camera/file system and a web browser)
 - We used complex HTML, CSS, and JS functions to build our mainline and side features.

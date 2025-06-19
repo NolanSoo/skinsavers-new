@@ -219,74 +219,49 @@ async function preprocessImage(imageElement) {
 
 // Main function to process skin images
 window.skinsave = async function () {
-    if (!session) {
-        alert("Model is still loading, please wait.");
-        return;
-    }
+  if (!session) {
+    alert("Model is still loading, please wait.");
+    return;
+  }
 
-    if (selectedFiles.length === 0) {
-        alert("Please select at least one image.");
-        return;
-    }
+  if (selectedFiles.length === 0) {
+    alert("Please select at least one image.");
+    return;
+  }
 
-    showLoadingScreen("Preparing for analysis...");
-    updateLoadingProgress(10);
+  showLoadingScreen("Preparing for analysis...");
+  updateLoadingProgress(10);
+  
+  console.log("Processing images...");
+  // Clear previous output and reset predictions
+  document.getElementById("output").innerHTML = "";
+  imagePredictions = [];
+  // Clear the processed images set
+  processedImages.clear();
 
-    console.log("Processing images...");
-    // Clear previous output and reset predictions
-    document.getElementById("output").innerHTML = "";
-    imagePredictions = [];
-    processedImages.clear();
+  // Process each selected image
+  const totalImages = selectedFiles.length;
+  for (let i = 0; i < totalImages; i++) {
+    const inputImage = selectedFiles[i];
+    const progressPercent = 10 + Math.round((i / totalImages) * 60); // Progress from 10% to 70%
+    updateLoadingProgress(progressPercent, `Analyzing image ${i+1} of ${totalImages}: ${inputImage.name}`);
+    console.log("Processing image:", inputImage.name);
+    await processImage(inputImage);
+  }
 
-    // Collect body part information
-    const bodyPartSelections = [];
-    const previewContainer = document.getElementById("preview-container");
-    const imageContainers = previewContainer.getElementsByClassName("image-container");
-
-    Array.from(imageContainers).forEach((container, index) => {
-        const dropdown = container.querySelector(".body-part-dropdown");
-        const bodyPart = dropdown ? dropdown.value : null;
-
-        if (!bodyPart) {
-            alert(`Please select a body part for image ${index + 1}.`);
-            hideLoadingScreen();
-            throw new Error("Body part selection missing.");
-        }
-
-        bodyPartSelections.push(bodyPart);
-    });
-
-    // Process each selected image
-    const totalImages = selectedFiles.length;
-    for (let i = 0; i < totalImages; i++) {
-        const inputImage = selectedFiles[i];
-        const bodyPart = bodyPartSelections[i];
-        const progressPercent = 10 + Math.round((i / totalImages) * 60); // Progress from 10% to 70%
-        updateLoadingProgress(progressPercent, `Analyzing image ${i + 1} of ${totalImages}: ${inputImage.name}`);
-        console.log(`Processing image: ${inputImage.name}, Body Part: ${bodyPart}`);
-        await processImage(inputImage, bodyPart);
-    }
-
-
-    document.getElementById("groq-data").textContent = JSON.stringify(
-        imagePredictions.map((prediction, index) => ({
-            ...prediction,
-            bodyPart: bodyPartSelections[index], // Add body part information
-        }))
-    );
-
+  // After processing images, store predictions in the invisible div
+  document.getElementById("groq-data").textContent =
+    JSON.stringify(imagePredictions);
     
-
-    // Update loading status for AI analysis
-    updateLoadingProgress(70, "Generating comprehensive analysis...");
-
-    // Trigger Groq AI function
-    await generateCancerAdvice();
-
-    // Hide loading screen when everything is complete
-    hideLoadingScreen();
+  // Update loading status for AI analysis
+  updateLoadingProgress(70, "Generating comprehensive analysis...");
+  
+  // Trigger Groq AI function
+  await generateCancerAdvice();
+  
+  // Hide loading screen when everything is complete
+  hideLoadingScreen();
 };
-
 
 // Function to process each image and display predictions
 async function processImage(inputImage) {
@@ -513,17 +488,7 @@ async function generateCancerAdvice() {
 
     Rough Prediction of Stage/Progression of Cancer
     Attempt to use the data provided, including confidence percentages in order to predict the stage, type, and progression of the cancer overall. Try to predict a timeline of how the next few years may be like (including estimated time to progress further or become treated completely with different lifestyle/treatment decisions), and how treatment can change that timeline for the better for cheap. Add the exact disclaimer: "This prediction should not be used for potiential life altering decisions, and should only be used for casual advice."
- 
-
-** Predictions Data **: 
-${ JSON.stringify(predictionData, null, 2) }
-
-Each prediction includes the associated body part for better context.Use this information to provide more accurate advice, such as identifying high - risk areas or predicting cancer spread patterns.
-
-Please use the location information for each image to provide more accurate advice, such as identifying high-risk areas or predicting cancer spread patterns.
-
-
-    IMPORTANT INSTRUCTIONS:
+     IMPORTANT INSTRUCTIONS:
      1. Start your response with the heading "Skin Cancer Analysis and Recommendations"
      2. Refer to yourself as "assistant" not "AI"
      3. Format your response in a professional, clinical manner with clear sections and bullet points

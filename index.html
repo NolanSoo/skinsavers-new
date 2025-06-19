@@ -20,111 +20,63 @@
     <title>SkinSavers</title>
   </head>
   <body>
-      <!-- Loading Screen Overlay -->
-      <div id="loading-overlay" class="loading-overlay">
-          <div class="loading-content">
-              <div class="medical-icon">
-                  <div class="heartbeat-line">
-                      <svg viewBox="0 0 600 100" preserveAspectRatio="none">
-                          <polyline class="heartbeat" points="0,50 100,50 130,30 160,70 190,50 220,50 250,50 280,30 310,70 340,50 370,50 400,50 430,30 460,70 490,50 520,50 550,50 580,50 600,50" />
-                      </svg>
-                  </div>
-              </div>
-              <h3 class="loading-text">Processing</h3>
-              <div class="loading-subtext" id="loading-status">Initializing...</div>
-              <div class="progress-container loading-progress">
-                  <div class="progress-bar">
-                      <div class="progress-fill" id="loading-progress-bar" style="width: 0%"></div>
-                  </div>
-              </div>
+    <!-- Loading Screen Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="loading-content">
+        <div class="medical-icon">
+          <div class="heartbeat-line">
+            <svg viewBox="0 0 600 100" preserveAspectRatio="none">
+              <polyline class="heartbeat" points="0,50 100,50 130,30 160,70 190,50 220,50 250,50 280,30 310,70 340,50 370,50 400,50 430,30 460,70 490,50 520,50 550,50 580,50 600,50" />
+            </svg>
           </div>
+        </div>
+        <h3 class="loading-text">Processing</h3>
+        <div class="loading-subtext" id="loading-status">Initializing...</div>
+        <div class="progress-container loading-progress">
+          <div class="progress-bar">
+            <div class="progress-fill" id="loading-progress-bar" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h1 class="logo" text-align="center"><b>skinsavers</b></h1>
+    <h5 class="text">
+      Welcome to Skinsavers! This app allows you to quickly self-diagnose
+      yourself for skin cancer, potentially saving you thousands of dollars or
+      even years of your life. All you need to do is input at least one image of
+      your skin (multiple is better). Afterward, you will know if you have skin
+      cancer or not. If you do, you will quickly receive priceless information
+      such as its type, its progression and stage (estimated), and
+      next steps, such as effective and easy treatment options and simple lifestyle changes. <b>IMPORTANT: If you do not have any damage or cancer on your skin, it may still show 5-10% cancer risk. If you are predicted to be benign (at least 90% chance - less than 5 to 10% cancer risk), you should be safe. Almost everyone will have around a 5-10% risk. There is almost always NO NEED to take significant action unless your cancer risk is above 30%.</b> Note: zoomed-out photos do not work well, microscopic photos work best (try to zoom in on your skin as much as possible)
+    </h5>
+
+    <div id="image">
+      <!-- Enhanced file upload area -->
+      <div class="file-upload-area" id="upload-area">
+        <div class="upload-icon">📷</div>
+        <div class="upload-text">Click or Drop Skin Images Here</div>
+        <div class="upload-subtext">
+          Supported formats: JPG, JPEG, PNG, GIF, WEBP
+        </div>
+        <input type="file" id="input-images" multiple accept="image/*" />
+        <div class="image-preview-container" id="preview-container"></div>
       </div>
 
-      <h1 class="logo" text-align="center"><b>skinsavers</b></h1>
-      <h5 class="text">
-          Welcome to Skinsavers! This app allows you to quickly self-diagnose
-          yourself for skin cancer, potentially saving you thousands of dollars or
-          even years of your life. All you need to do is input at least one image of
-          your skin (multiple is better). Afterward, you will know if you have skin
-          cancer or not. If you do, you will quickly receive priceless information
-          such as its type, its progression and stage (estimated), and
-          next steps, such as effective and easy treatment options and simple lifestyle changes. <b>IMPORTANT: If you do not have any damage or cancer on your skin, it may still show 5-10% cancer risk. If you are predicted to be benign (at least 90% chance - less than 5 to 10% cancer risk), you should be safe. Almost everyone will have around a 5-10% risk. There is almost always NO NEED to take significant action unless your cancer risk is above 30%.</b> Note: zoomed-out photos do not work well, microscopic photos work best (try to zoom in on your skin as much as possible)
-      </h5>
+      <button id="input" onclick="skinsave()">Analyze Skin Images</button>
+    </div>
 
-      <div id="image">
-          <!-- Enhanced file upload area -->
-          <div class="file-upload-area" id="upload-area">
-              <div class="upload-icon">📷</div>
-              <div class="upload-text">Click or Drop Skin Images Here</div>
-              <div class="upload-subtext">
-                  Supported formats: JPG, JPEG, PNG, GIF, WEBP
-              </div>
-              <input type="file" id="input-images" multiple accept="image/*" onchange="handleFileUpload(event)" />
-              <div class="image-preview-container" id="preview-container"></div>
-          </div>
+    <div id="output"></div>
+    <div id="groq-data" style="display: none"></div>
+    <!-- Invisible div for data transfer -->
 
-          <button id="input" onclick="skinsave()">Analyze Skin Images</button>
-      </div>
+    <!-- Load required libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <!-- ONNX Runtime Web -->
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+    <!-- Use the exact CDN URL provided -->
+    <script src="https://cdn.jsdelivr.net/npm/groq-sdk@0.20/index.min.js"></script>
 
-      <script>
-          function handleFileUpload(event) {
-              const files = event.target.files;
-              const previewContainer = document.getElementById('preview-container');
-              previewContainer.innerHTML = ''; // Clear previous previews
-
-              Array.from(files).forEach((file, index) => {
-                  const reader = new FileReader();
-                  reader.onload = function (e) {
-                      // Create a container for each image and its dropdown
-                      const imageContainer = document.createElement('div');
-                      imageContainer.classList.add('image-container');
-
-                      // Add the image preview
-                      const img = document.createElement('img');
-                      img.src = e.target.result;
-                      img.alt = `Uploaded Image ${index + 1}`;
-                      img.classList.add('image-preview');
-
-                      // Add a dropdown for body part selection
-                      const dropdown = document.createElement('select');
-                      dropdown.name = `body-part-${index}`;
-                      dropdown.classList.add('body-part-dropdown');
-                      dropdown.innerHTML = `
-                <option value="" disabled selected>Select Body Part</option>
-                <option value="head">Head</option>
-                <option value="neck">Neck</option>
-                <option value="chest">Chest</option>
-                <option value="back">Back</option>
-                <option value="arm">Arm</option>
-                <option value="leg">Leg</option>
-                <option value="hand">Hand</option>
-                <option value="foot">Foot</option>
-                <option value="other">Other</option>
-              `;
-
-                      // Append the image and dropdown to the container
-                      imageContainer.appendChild(img);
-                      imageContainer.appendChild(dropdown);
-
-                      // Append the container to the preview area
-                      previewContainer.appendChild(imageContainer);
-                  };
-                  reader.readAsDataURL(file);
-              });
-          }
-      </script>
-
-
-      <div id="output"></div>
-      <div id="groq-data" style="display: none"></div>
-      <!-- Invisible div for data transfer -->
-      <!-- Load required libraries -->
-      <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
-      <!-- ONNX Runtime Web -->
-      <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
-      <!-- Use the exact CDN URL provided -->
-      <script src="https://cdn.jsdelivr.net/npm/groq-sdk@0.20/index.min.js"></script>
-
-      <script src="script.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
