@@ -4,7 +4,7 @@ This application enables you to scan your skin for skin cancer quickly on any de
 Python Documentation:  
 - For the machine learning model we used the Ham10000 dataset to train a pretrained Densenet121
 - For implementing the densenet121 model we used this code as inspiration (https://www.kaggle.com/code/mathewkouch/ham10000-skin-lesion-classifier-82-pytorch)
-- We reached an accuracy of 79% after 8 hours of training
+- We reached an accuracy of 90% after additional training (4th worldwide)
 JavaScript/Frontend Info:
 - We used plain JavaScript (No Node.js or any extra frameworks)
 - We used several modules: TensorFlow.JS, ONNX Web Runtime, Groq API/SDK (SDK almost always fails so it falls back to the API)

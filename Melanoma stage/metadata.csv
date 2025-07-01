@@ -1,0 +1,687 @@
+isic_id,attribution,copyright_license,acquisition_day,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,dermoscopic_type,diagnosis,diagnosis_confirm_type,family_hx_mm,image_type,lesion_id,mel_class,mel_mitotic_index,mel_thick_mm,mel_type,mel_ulcer,melanocytic,patient_id,personal_hx_mm,sex
+ISIC_0020963,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.33,,False,True,IP_2079068,False,female
+ISIC_0020975,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8408166,True,male
+ISIC_0020977,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8408166,True,male
+ISIC_0020978,Anonymous,CC-0,,80,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8408166,True,male
+ISIC_0020985,Anonymous,CC-0,,40,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.76,,,True,IP_9026999,False,male
+ISIC_0020986,Anonymous,CC-0,,40,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.76,,,True,IP_9026999,False,male
+ISIC_0020987,Anonymous,CC-0,,85,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0202761,False,male
+ISIC_0020988,Anonymous,CC-0,,40,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.76,,,True,IP_9026999,False,male
+ISIC_0020998,Anonymous,CC-0,,85,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0202761,False,male
+ISIC_0021009,Anonymous,CC-0,,85,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0202761,False,male
+ISIC_0021020,Anonymous,CC-0,,85,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0202761,False,male
+ISIC_0021093,Anonymous,CC-0,,75,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0062831,True,male
+ISIC_0021094,Anonymous,CC-0,,75,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0062831,True,male
+ISIC_0021095,Anonymous,CC-0,,75,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0062831,True,male
+ISIC_0021125,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.32,,,True,IP_8613599,False,male
+ISIC_0021136,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.32,,,True,IP_8613599,False,male
+ISIC_0021147,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.32,,,True,IP_8613599,False,male
+ISIC_0021155,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.32,,,True,IP_8613599,False,male
+ISIC_0021162,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.32,,,True,IP_8613599,False,male
+ISIC_0021166,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0756959,True,male
+ISIC_0021167,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0756959,True,male
+ISIC_0021168,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0756959,True,male
+ISIC_0021172,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1292330,True,male
+ISIC_0021183,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1292330,True,male
+ISIC_0021187,Anonymous,CC-0,,35,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152387,True,male
+ISIC_0021188,Anonymous,CC-0,,35,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152387,True,male
+ISIC_0021189,Anonymous,CC-0,,35,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152387,True,male
+ISIC_0021194,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1292330,True,male
+ISIC_0021205,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1292330,True,male
+ISIC_0021271,Anonymous,CC-0,,75,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1893317,True,male
+ISIC_0021282,Anonymous,CC-0,,75,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1893317,True,male
+ISIC_0021293,Anonymous,CC-0,,75,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1893317,True,male
+ISIC_0021295,Anonymous,CC-0,,85,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.9,,False,True,IP_4549244,False,male
+ISIC_0021296,Anonymous,CC-0,,85,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.9,,False,True,IP_4549244,False,male
+ISIC_0021297,Anonymous,CC-0,,85,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.9,,False,True,IP_4549244,False,male
+ISIC_0021328,Anonymous,CC-0,,60,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2158168,True,male
+ISIC_0021329,Anonymous,CC-0,,60,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2158168,True,male
+ISIC_0021330,Anonymous,CC-0,,60,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2158168,True,male
+ISIC_0021339,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3022733,False,male
+ISIC_0021340,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3022733,False,male
+ISIC_0021341,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3022733,False,male
+ISIC_0021382,Anonymous,CC-0,,80,palms/soles,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1753670,False,female
+ISIC_0021383,Anonymous,CC-0,,80,palms/soles,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1753670,False,female
+ISIC_0021384,Anonymous,CC-0,,80,palms/soles,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1753670,False,female
+ISIC_0021389,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,2.2,,,True,IP_2747236,False,male
+ISIC_0021390,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,2.2,,,True,IP_2747236,False,male
+ISIC_0021391,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,2.2,,,True,IP_2747236,False,male
+ISIC_0021399,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0680461,False,female
+ISIC_0021400,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0680461,False,female
+ISIC_0021401,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0680461,False,female
+ISIC_0021405,Anonymous,CC-0,,75,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5696403,False,male
+ISIC_0021407,Anonymous,CC-0,,75,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5696403,False,male
+ISIC_0021408,Anonymous,CC-0,,75,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5696403,False,male
+ISIC_0021426,Anonymous,CC-0,,60,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.3,,False,True,IP_3851249,False,female
+ISIC_0021427,Anonymous,CC-0,,60,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.3,,False,True,IP_3851249,False,female
+ISIC_0021428,Anonymous,CC-0,,60,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.3,,False,True,IP_3851249,False,female
+ISIC_0021432,Anonymous,CC-0,,55,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1322727,False,male
+ISIC_0021434,Anonymous,CC-0,,55,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1322727,False,male
+ISIC_0021435,Anonymous,CC-0,,55,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1322727,False,male
+ISIC_0021439,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,,False,True,IP_2228007,False,male
+ISIC_0021440,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,,False,True,IP_2228007,False,male
+ISIC_0021441,Anonymous,CC-0,,75,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,,False,True,IP_2228007,False,male
+ISIC_0021442,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2228007,False,male
+ISIC_0021443,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2228007,False,male
+ISIC_0021446,Anonymous,CC-0,,75,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2228007,False,male
+ISIC_0021473,Anonymous,CC-0,,60,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5354286,True,male
+ISIC_0021474,Anonymous,CC-0,,60,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5354286,True,male
+ISIC_0021475,Anonymous,CC-0,,60,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5354286,True,male
+ISIC_0021480,Anonymous,CC-0,,55,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152871,True,male
+ISIC_0021481,Anonymous,CC-0,,55,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152871,True,male
+ISIC_0021482,Anonymous,CC-0,,55,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0152871,True,male
+ISIC_0021491,Anonymous,CC-0,,85,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3448753,False,male
+ISIC_0021492,Anonymous,CC-0,,85,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3448753,False,male
+ISIC_0021493,Anonymous,CC-0,,85,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3448753,False,male
+ISIC_0021497,Anonymous,CC-0,,80,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1103325,False,male
+ISIC_0021498,Anonymous,CC-0,,80,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1103325,False,male
+ISIC_0021500,Anonymous,CC-0,,80,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1103325,False,male
+ISIC_0021530,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.33,,,True,IP_5428692,False,female
+ISIC_0021531,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.33,,,True,IP_5428692,False,female
+ISIC_0021533,Anonymous,CC-0,,65,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.33,,,True,IP_5428692,False,female
+ISIC_0021534,Anonymous,CC-0,,75,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8206145,False,female
+ISIC_0021535,Anonymous,CC-0,,75,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8206145,False,female
+ISIC_0021536,Anonymous,CC-0,,75,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8206145,False,female
+ISIC_0021542,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0303118,True,male
+ISIC_0021543,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0303118,True,male
+ISIC_0021544,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0303118,True,male
+ISIC_0021611,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_5219616,True,male
+ISIC_0021622,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_5219616,True,male
+ISIC_0021627,Anonymous,CC-0,,80,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_5219616,True,male
+ISIC_0021646,Anonymous,CC-0,,50,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6493615,False,male
+ISIC_0021647,Anonymous,CC-0,,50,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6493615,False,male
+ISIC_0021648,Anonymous,CC-0,,50,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6493615,False,male
+ISIC_0021687,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0993651,False,female
+ISIC_0021688,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0993651,False,female
+ISIC_0021689,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0993651,False,female
+ISIC_0021706,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.2,,False,True,IP_6937090,False,female
+ISIC_0021708,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.2,,False,True,IP_6937090,False,female
+ISIC_0021709,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.2,,False,True,IP_6937090,False,female
+ISIC_0021710,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.25,,False,True,IP_6710314,True,male
+ISIC_0021711,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.25,,False,True,IP_6710314,True,male
+ISIC_0021713,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.25,,False,True,IP_6710314,True,male
+ISIC_0021728,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,,,0.75,,,True,IP_2643715,,female
+ISIC_0021729,Anonymous,CC-0,,85,lower extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,,,0.75,,,True,IP_2643715,,female
+ISIC_0021730,Anonymous,CC-0,,85,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,,,0.75,,,True,IP_2643715,,female
+ISIC_0021745,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9478703,True,male
+ISIC_0021746,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9478703,True,male
+ISIC_0021747,Anonymous,CC-0,,65,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9478703,True,male
+ISIC_0021768,Anonymous,CC-0,,60,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7903739,True,male
+ISIC_0021770,Anonymous,CC-0,,50,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021771,Anonymous,CC-0,,50,upper extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021772,Anonymous,CC-0,,50,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021780,Anonymous,CC-0,,50,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021781,Anonymous,CC-0,,50,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021782,Anonymous,CC-0,,50,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021786,Anonymous,CC-0,,50,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021787,Anonymous,CC-0,,50,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021789,Anonymous,CC-0,,50,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8153070,True,female
+ISIC_0021800,Anonymous,CC-0,,50,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021801,Anonymous,CC-0,,50,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021802,Anonymous,CC-0,,50,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021803,Anonymous,CC-0,,50,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021804,Anonymous,CC-0,,50,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021805,Anonymous,CC-0,,50,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3355940,True,female
+ISIC_0021816,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2677757,False,male
+ISIC_0021818,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2677757,False,male
+ISIC_0021819,Anonymous,CC-0,,65,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2677757,False,male
+ISIC_0021850,Anonymous,CC-0,,25,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.33,,False,True,IP_2079068,False,female
+ISIC_0021851,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7903739,True,male
+ISIC_0021896,Anonymous,CC-0,,65,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.1,,,True,IP_5895991,True,male
+ISIC_0021897,Anonymous,CC-0,,65,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.1,,,True,IP_5895991,True,male
+ISIC_0021898,Anonymous,CC-0,,65,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5895991,True,male
+ISIC_0021899,Anonymous,CC-0,,65,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5895991,True,male
+ISIC_0021900,Anonymous,CC-0,,70,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7642749,True,female
+ISIC_0021901,Anonymous,CC-0,,65,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5895991,True,male
+ISIC_0021908,Anonymous,CC-0,,70,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7642749,True,female
+ISIC_0021917,Anonymous,CC-0,,70,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7642749,True,female
+ISIC_0021921,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_0125984,True,male
+ISIC_0021925,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7903739,True,male
+ISIC_0021926,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_0125984,True,male
+ISIC_0021927,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_0125984,True,male
+ISIC_0021967,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021969,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021970,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021971,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021972,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021973,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021974,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021975,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021976,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021977,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021978,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021979,Anonymous,CC-0,,80,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0021980,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021981,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_0715697,True,male
+ISIC_0021985,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0021996,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7903739,True,male
+ISIC_0021997,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0022000,Anonymous,CC-0,,25,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,False,True,IP_4687048,False,female
+ISIC_0022003,Anonymous,CC-0,,80,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0022009,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.35,,False,True,IP_1900562,True,male
+ISIC_0022010,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.35,,False,True,IP_1900562,True,male
+ISIC_0022011,Anonymous,CC-0,,55,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.5,,,True,IP_0483127,False,male
+ISIC_0022012,Anonymous,CC-0,,55,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.5,,,True,IP_0483127,False,male
+ISIC_0022013,Anonymous,CC-0,,80,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0022022,Anonymous,CC-0,,80,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0591519,False,male
+ISIC_0022048,Anonymous,CC-0,,60,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2809475,False,male
+ISIC_0022059,Anonymous,CC-0,,60,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2809475,False,male
+ISIC_0022066,Anonymous,CC-0,,45,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5004782,True,male
+ISIC_0022067,Anonymous,CC-0,,45,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5004782,True,male
+ISIC_0022068,Anonymous,CC-0,,45,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5004782,True,male
+ISIC_0022069,Anonymous,CC-0,,45,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5004782,True,male
+ISIC_0022070,Anonymous,CC-0,,60,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2809475,False,male
+ISIC_0022071,Anonymous,CC-0,,45,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5004782,True,male
+ISIC_0022073,Anonymous,CC-0,,70,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.41,,False,True,IP_9304528,False,male
+ISIC_0022075,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022076,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022077,Anonymous,CC-0,,85,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022078,Anonymous,CC-0,,85,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022079,Anonymous,CC-0,,85,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022080,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022081,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022082,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9183698,False,male
+ISIC_0022083,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7903739,True,male
+ISIC_0022102,Anonymous,CC-0,,85,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_0739831,True,female
+ISIC_0022113,Anonymous,CC-0,,85,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_0739831,True,female
+ISIC_0022123,Anonymous,CC-0,,70,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2232382,False,female
+ISIC_0022124,Anonymous,CC-0,,85,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_0739831,True,female
+ISIC_0022125,Anonymous,CC-0,,70,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2232382,False,female
+ISIC_0022154,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4119100,False,male
+ISIC_0022155,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4119100,False,male
+ISIC_0022156,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4119100,False,male
+ISIC_0022157,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4119100,False,male
+ISIC_0022180,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.59,superficial spreading melanoma,,True,IP_7903739,True,male
+ISIC_0022195,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0099017,True,female
+ISIC_0022196,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0099017,True,female
+ISIC_0022197,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0099017,True,female
+ISIC_0022198,Anonymous,CC-0,,60,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0099017,True,female
+ISIC_0022199,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0099017,True,female
+ISIC_0022245,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2266056,True,male
+ISIC_0022246,Anonymous,CC-0,,60,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2266056,True,male
+ISIC_0022254,Anonymous,CC-0,,60,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.71,,False,True,IP_2266056,True,male
+ISIC_0022255,Anonymous,CC-0,,60,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.71,,False,True,IP_2266056,True,male
+ISIC_0022256,Anonymous,CC-0,,60,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.71,,False,True,IP_2266056,True,male
+ISIC_0022286,Anonymous,CC-0,,60,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.59,superficial spreading melanoma,,True,IP_7903739,True,male
+ISIC_0022304,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1748267,False,male
+ISIC_0022305,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1748267,False,male
+ISIC_0022306,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1748267,False,male
+ISIC_0022307,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1748267,False,male
+ISIC_0022308,Anonymous,CC-0,,65,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1748267,False,male
+ISIC_0022311,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022312,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022313,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022314,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022315,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022316,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022317,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022318,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022319,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022321,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022322,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9619493,True,male
+ISIC_0022327,Anonymous,CC-0,,45,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.06,,False,True,IP_8481777,False,female
+ISIC_0022328,Anonymous,CC-0,,45,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.06,,False,True,IP_8481777,False,female
+ISIC_0022329,Anonymous,CC-0,,45,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.06,,False,True,IP_8481777,False,female
+ISIC_0022330,Anonymous,CC-0,,45,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.06,,False,True,IP_8481777,False,female
+ISIC_0022332,Anonymous,CC-0,,45,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.06,,False,True,IP_8481777,False,female
+ISIC_0022338,Anonymous,CC-0,,30,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4164822,False,female
+ISIC_0022339,Anonymous,CC-0,,30,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4164822,False,female
+ISIC_0022340,Anonymous,CC-0,,30,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4164822,False,female
+ISIC_0022378,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1512382,True,male
+ISIC_0022379,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1512382,True,male
+ISIC_0022380,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1512382,True,male
+ISIC_0022381,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.15,,,True,IP_1512382,True,male
+ISIC_0022382,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.15,,,True,IP_1512382,True,male
+ISIC_0022383,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.15,,,True,IP_1512382,True,male
+ISIC_0022384,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.15,,,True,IP_1512382,True,male
+ISIC_0022385,Anonymous,CC-0,,65,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.15,,,True,IP_1512382,True,male
+ISIC_0022397,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3761605,False,male
+ISIC_0022398,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3761605,False,male
+ISIC_0022399,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3761605,False,male
+ISIC_0022437,Anonymous,CC-0,,35,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.31,,False,True,IP_2139998,False,male
+ISIC_0022438,Anonymous,CC-0,,35,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.31,,False,True,IP_2139998,False,male
+ISIC_0022439,Anonymous,CC-0,,35,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.31,,False,True,IP_2139998,False,male
+ISIC_0022440,Anonymous,CC-0,,35,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.31,,False,True,IP_2139998,False,male
+ISIC_0022442,Anonymous,CC-0,,35,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.31,,False,True,IP_2139998,False,male
+ISIC_0022463,Anonymous,CC-0,,65,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4724950,False,male
+ISIC_0022474,Anonymous,CC-0,,65,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4724950,False,male
+ISIC_0022485,Anonymous,CC-0,,65,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4724950,False,male
+ISIC_0022570,Anonymous,CC-0,,75,lower extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2048981,True,female
+ISIC_0022571,Anonymous,CC-0,,75,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2048981,True,female
+ISIC_0022572,Anonymous,CC-0,,75,lower extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2048981,True,female
+ISIC_0022573,Anonymous,CC-0,,75,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2048981,True,female
+ISIC_0022574,Anonymous,CC-0,,75,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2048981,True,female
+ISIC_0022597,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022599,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022600,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022601,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022602,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022603,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022604,Anonymous,CC-0,,80,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4257000,True,male
+ISIC_0022615,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2969691,False,female
+ISIC_0022616,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2969691,False,female
+ISIC_0022617,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2969691,False,female
+ISIC_0022624,Anonymous,CC-0,,45,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4052447,False,female
+ISIC_0022660,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5801453,False,male
+ISIC_0022661,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5801453,False,male
+ISIC_0022662,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5801453,False,male
+ISIC_0022663,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5801453,False,male
+ISIC_0022679,Anonymous,CC-0,,75,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0117785,True,male
+ISIC_0022682,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4960761,True,male
+ISIC_0022683,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4960761,True,male
+ISIC_0022684,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4960761,True,male
+ISIC_0022685,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4960761,True,male
+ISIC_0022686,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4960761,True,male
+ISIC_0022783,Anonymous,CC-0,,75,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0117785,True,male
+ISIC_0022793,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022794,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022796,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022797,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022798,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022799,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7656647,True,female
+ISIC_0022894,Anonymous,CC-0,,75,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0117785,True,male
+ISIC_0023012,Anonymous,CC-0,,80,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023014,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023015,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023016,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023017,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023018,Anonymous,CC-0,,80,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023019,Anonymous,CC-0,,80,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023020,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2750030,True,male
+ISIC_0023042,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023043,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023044,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023045,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023047,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023048,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023049,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023050,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023051,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023052,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023053,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023054,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,4.3,,,True,IP_0126628,False,male
+ISIC_0023103,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023104,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023105,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023106,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023107,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023108,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023109,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023110,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023111,Anonymous,CC-0,,25,head/neck,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,False,True,IP_6611345,True,male
+ISIC_0023116,Anonymous,CC-0,,75,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8084551,True,male
+ISIC_0023117,Anonymous,CC-0,,75,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8084551,True,male
+ISIC_0023118,Anonymous,CC-0,,75,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8084551,True,male
+ISIC_0023119,Anonymous,CC-0,,75,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_8084551,True,male
+ISIC_0023130,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2218434,False,female
+ISIC_0023131,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2218434,False,female
+ISIC_0023132,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2218434,False,female
+ISIC_0023133,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2218434,False,female
+ISIC_0023161,Anonymous,CC-0,,85,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7847558,False,male
+ISIC_0023163,Anonymous,CC-0,,85,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7847558,False,male
+ISIC_0023164,Anonymous,CC-0,,85,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7847558,False,male
+ISIC_0023165,Anonymous,CC-0,,85,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7847558,False,male
+ISIC_0023166,Anonymous,CC-0,,80,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,3.8,,,True,IP_0842572,False,female
+ISIC_0023236,Anonymous,CC-0,,75,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_0624975,False,male
+ISIC_0023262,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023264,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023265,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023266,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023267,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023268,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023269,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023270,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023271,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023272,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023273,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023275,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023276,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023277,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023278,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023279,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023280,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023281,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023282,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023283,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023284,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023286,Anonymous,CC-0,,85,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_6738813,False,male
+ISIC_0023287,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023288,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023289,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023290,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023291,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023292,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023293,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023294,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.9,superficial spreading melanoma,,True,IP_9057691,False,male
+ISIC_0023297,Anonymous,CC-0,,85,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_6738813,False,male
+ISIC_0023308,Anonymous,CC-0,,85,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_6738813,False,male
+ISIC_0023364,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023365,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023366,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023367,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023368,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023369,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023370,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023371,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023372,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023374,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023375,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023376,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023377,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.24,superficial spreading melanoma,False,True,IP_6965066,False,male
+ISIC_0023395,Anonymous,CC-0,,40,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,2.4,,,True,IP_7092750,False,female
+ISIC_0023396,Anonymous,CC-0,,70,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.32,superficial spreading melanoma,False,True,IP_6008985,True,male
+ISIC_0023397,Anonymous,CC-0,,70,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.32,superficial spreading melanoma,False,True,IP_6008985,True,male
+ISIC_0023398,Anonymous,CC-0,,70,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.32,superficial spreading melanoma,False,True,IP_6008985,True,male
+ISIC_0023399,Anonymous,CC-0,,70,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.32,superficial spreading melanoma,False,True,IP_6008985,True,male
+ISIC_0023427,Anonymous,CC-0,,50,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,3.1,,,True,IP_6050010,True,female
+ISIC_0023438,Anonymous,CC-0,,50,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,3.1,,,True,IP_6050010,True,female
+ISIC_0023458,Anonymous,CC-0,,35,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023459,Anonymous,CC-0,,35,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023460,Anonymous,CC-0,,35,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023461,Anonymous,CC-0,,35,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023462,Anonymous,CC-0,,35,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023463,Anonymous,CC-0,,35,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023464,Anonymous,CC-0,,35,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023465,Anonymous,CC-0,,35,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023466,Anonymous,CC-0,,35,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023467,Anonymous,CC-0,,35,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023469,Anonymous,CC-0,,35,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2486120,False,female
+ISIC_0023482,Anonymous,CC-0,,65,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023483,Anonymous,CC-0,,65,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023484,Anonymous,CC-0,,65,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023485,Anonymous,CC-0,,65,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023486,Anonymous,CC-0,,65,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023488,Anonymous,CC-0,,65,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023489,Anonymous,CC-0,,65,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023490,Anonymous,CC-0,,65,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023491,Anonymous,CC-0,,65,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023492,Anonymous,CC-0,,65,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023493,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023494,Anonymous,CC-0,,65,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023495,Anonymous,CC-0,,65,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023496,Anonymous,CC-0,,65,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023497,Anonymous,CC-0,,65,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023500,Anonymous,CC-0,,65,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023501,Anonymous,CC-0,,65,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023502,Anonymous,CC-0,,65,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4465811,True,male
+ISIC_0023503,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2492571,False,male
+ISIC_0023504,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023505,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023506,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023507,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023508,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023509,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023511,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023512,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023513,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023514,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023515,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023516,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023517,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023518,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023519,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6476463,False,female
+ISIC_0023524,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6868030,True,male
+ISIC_0023525,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6868030,True,male
+ISIC_0023526,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6868030,True,male
+ISIC_0023529,Anonymous,CC-0,,,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.3,,False,True,IP_3462684,False,male
+ISIC_0023530,Anonymous,CC-0,,,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.3,,False,True,IP_3462684,False,male
+ISIC_0023531,Anonymous,CC-0,,,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,1.3,,False,True,IP_3462684,False,male
+ISIC_0023553,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_8902630,True,male
+ISIC_0023554,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.2,,,True,IP_8902630,True,male
+ISIC_0023561,Anonymous,CC-0,,65,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9281915,False,female
+ISIC_0023574,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4065148,False,male
+ISIC_0023575,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4065148,False,male
+ISIC_0023594,Anonymous,CC-0,,80,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.46,,False,True,IP_4352028,True,male
+ISIC_0023596,Anonymous,CC-0,,80,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.46,,False,True,IP_4352028,True,male
+ISIC_0023597,Anonymous,CC-0,,80,posterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.46,,False,True,IP_4352028,True,male
+ISIC_0023604,Anonymous,CC-0,,70,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.35,,False,True,IP_6937947,True,male
+ISIC_0023606,Anonymous,CC-0,,70,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.35,,False,True,IP_6937947,True,male
+ISIC_0023608,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.18,,,True,IP_9310872,True,male
+ISIC_0023620,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.18,,,True,IP_9310872,True,male
+ISIC_0023631,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.44,,,True,IP_9310872,True,male
+ISIC_0023634,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023635,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023636,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023637,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023638,Anonymous,CC-0,,65,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023639,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023640,Anonymous,CC-0,,65,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023641,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023642,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.44,,,True,IP_9310872,True,male
+ISIC_0023643,Anonymous,CC-0,,65,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023644,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023645,Anonymous,CC-0,,65,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3069248,False,male
+ISIC_0023646,Anonymous,CC-0,,80,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4057359,False,male
+ISIC_0023647,Anonymous,CC-0,,80,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4057359,False,male
+ISIC_0023648,Anonymous,CC-0,,80,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4057359,False,male
+ISIC_0023669,Anonymous,CC-0,,40,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,,True,IP_2692688,False,female
+ISIC_0023670,Anonymous,CC-0,,40,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,,True,IP_2692688,False,female
+ISIC_0023671,Anonymous,CC-0,,40,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.27,,,True,IP_2692688,False,female
+ISIC_0023675,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.18,,,True,IP_0637283,False,male
+ISIC_0023685,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.18,,,True,IP_0637283,False,male
+ISIC_0023705,Anonymous,CC-0,,45,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_1356584,False,male
+ISIC_0023706,Anonymous,CC-0,,45,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_1356584,False,male
+ISIC_0023707,Anonymous,CC-0,,45,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_1356584,False,male
+ISIC_0023708,Anonymous,CC-0,,45,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.55,,,True,IP_1356584,False,male
+ISIC_0023711,Anonymous,CC-0,,80,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3484268,False,male
+ISIC_0023712,Anonymous,CC-0,,80,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3484268,False,male
+ISIC_0023744,Anonymous,CC-0,,80,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.37,,,True,IP_1315290,False,female
+ISIC_0023747,Anonymous,CC-0,,80,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.37,,,True,IP_1315290,False,female
+ISIC_0023755,Anonymous,CC-0,,80,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.37,,,True,IP_1315290,False,female
+ISIC_0023762,Anonymous,CC-0,,85,head/neck,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5339762,False,female
+ISIC_0023763,Anonymous,CC-0,,85,head/neck,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5339762,False,female
+ISIC_0023764,Anonymous,CC-0,,85,head/neck,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5339762,False,female
+ISIC_0023765,Anonymous,CC-0,,45,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1455885,False,male
+ISIC_0023766,Anonymous,CC-0,,45,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1455885,False,male
+ISIC_0023767,Anonymous,CC-0,,45,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_1455885,False,male
+ISIC_0023769,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.1,,False,True,IP_0254499,False,male
+ISIC_0023770,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.1,,False,True,IP_0254499,False,male
+ISIC_0023771,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.1,,False,True,IP_0254499,False,male
+ISIC_0023785,Anonymous,CC-0,,70,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5454096,True,male
+ISIC_0023786,Anonymous,CC-0,,70,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5454096,True,male
+ISIC_0023787,Anonymous,CC-0,,70,head/neck,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_5454096,True,male
+ISIC_0023806,Anonymous,CC-0,,45,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9081741,True,female
+ISIC_0023807,Anonymous,CC-0,,45,anterior torso,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9081741,True,female
+ISIC_0023808,Anonymous,CC-0,,45,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9081741,True,female
+ISIC_0023809,Anonymous,CC-0,,45,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.47,,,True,IP_7432854,True,female
+ISIC_0023811,Anonymous,CC-0,,45,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.47,,,True,IP_7432854,True,female
+ISIC_0023812,Anonymous,CC-0,,45,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.47,,,True,IP_7432854,True,female
+ISIC_0023836,Anonymous,CC-0,,50,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.27,,False,True,IP_6586859,True,female
+ISIC_0023837,Anonymous,CC-0,,50,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.27,,False,True,IP_6586859,True,female
+ISIC_0023838,Anonymous,CC-0,,50,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.27,,False,True,IP_6586859,True,female
+ISIC_0023839,Anonymous,CC-0,,50,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,invasive melanoma,,0.27,,False,True,IP_6586859,True,female
+ISIC_0023843,Anonymous,CC-0,,70,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9654841,False,female
+ISIC_0023853,Anonymous,CC-0,,70,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.32,,,True,IP_1259609,False,male
+ISIC_0023854,Anonymous,CC-0,,70,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_9654841,False,female
+ISIC_0023855,Anonymous,CC-0,,70,upper extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.32,,,True,IP_1259609,False,male
+ISIC_0023856,Anonymous,CC-0,,70,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.32,,,True,IP_1259609,False,male
+ISIC_0023890,Anonymous,CC-0,,70,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7821519,True,female
+ISIC_0023891,Anonymous,CC-0,,70,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7821519,True,female
+ISIC_0023893,Anonymous,CC-0,,70,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_7821519,True,female
+ISIC_0023900,Anonymous,CC-0,,50,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4577858,True,male
+ISIC_0023901,Anonymous,CC-0,,50,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4577858,True,male
+ISIC_0023902,Anonymous,CC-0,,50,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_4577858,True,male
+ISIC_0023903,Anonymous,CC-0,,80,head/neck,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2736185,False,female
+ISIC_0023923,Anonymous,CC-0,,35,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6338367,True,male
+ISIC_0023924,Anonymous,CC-0,,35,lower extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6338367,True,male
+ISIC_0023925,Anonymous,CC-0,,35,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_6338367,True,male
+ISIC_0024005,Anonymous,CC-0,,80,head/neck,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_2736185,False,female
+ISIC_0024015,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.19,,False,True,IP_4822830,True,male
+ISIC_0024016,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.19,,False,True,IP_4822830,True,male
+ISIC_0024018,Anonymous,CC-0,,75,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,invasive melanoma,,0.19,,False,True,IP_4822830,True,male
+ISIC_0024032,Anonymous,CC-0,,85,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_5211117,False,male
+ISIC_0024033,Anonymous,CC-0,,85,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_5211117,False,male
+ISIC_0024034,Anonymous,CC-0,,85,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.29,,,True,IP_5211117,False,male
+ISIC_0024072,Anonymous,CC-0,,60,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.61,,,True,IP_1747237,True,male
+ISIC_0024083,Anonymous,CC-0,,60,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.61,,,True,IP_1747237,True,male
+ISIC_0024085,Anonymous,CC-0,,80,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.18,,False,True,IP_1679579,False,female
+ISIC_0024086,Anonymous,CC-0,,80,upper extremity,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.18,,False,True,IP_1679579,False,female
+ISIC_0024087,Anonymous,CC-0,,80,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.18,,False,True,IP_1679579,False,female
+ISIC_0024091,Anonymous,CC-0,,60,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.61,,,True,IP_1747237,True,male
+ISIC_0024095,Anonymous,CC-0,,75,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3752877,False,male
+ISIC_0024096,Anonymous,CC-0,,75,upper extremity,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3752877,False,male
+ISIC_0024097,Anonymous,CC-0,,75,upper extremity,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3752877,False,male
+ISIC_0024108,Anonymous,CC-0,,75,posterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,,,0.4,,False,True,IP_4789287,False,male
+ISIC_0024109,Anonymous,CC-0,,75,posterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.4,,False,True,IP_4789287,False,male
+ISIC_0024112,Anonymous,CC-0,,75,posterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,,,0.4,,False,True,IP_4789287,False,male
+ISIC_0024119,Anonymous,CC-0,,75,anterior torso,malignant,,contact non-polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3509467,True,male
+ISIC_0024120,Anonymous,CC-0,,75,anterior torso,malignant,,contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3509467,True,male
+ISIC_0024121,Anonymous,CC-0,,75,anterior torso,malignant,,non-contact polarized,melanoma,histopathology,False,dermoscopic,,melanoma in situ,,0.0,,,True,IP_3509467,True,male
+ISIC_0024193,Anonymous,CC-0,,55,lower extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,,,,0.28,,,True,IP_4437955,False,male
+ISIC_0024194,Anonymous,CC-0,,55,lower extremity,malignant,,contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.28,,,True,IP_4437955,False,male
+ISIC_0024195,Anonymous,CC-0,,55,lower extremity,malignant,,non-contact polarized,melanoma,histopathology,True,dermoscopic,,,,0.28,,,True,IP_4437955,False,male
+ISIC_0046224,Anonymous,CC-BY,,55,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,1.1,superficial spreading melanoma,,True,,,male
+ISIC_0046225,Anonymous,CC-BY,,45,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.4,superficial spreading melanoma,,True,,,female
+ISIC_0046242,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.66,lentigo maligna melanoma,False,True,,,male
+ISIC_0046305,Anonymous,CC-BY,,35,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046315,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.6,superficial spreading melanoma,,True,,,
+ISIC_0046322,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,,,0.6,,,True,,,
+ISIC_0046323,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,,,0.6,,,True,,,
+ISIC_0046331,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,,,0.5,superficial spreading melanoma,,True,,,
+ISIC_0046338,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.5,superficial spreading melanoma,False,True,,,male
+ISIC_0046343,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,1.5,,,True,,,female
+ISIC_0046344,Anonymous,CC-BY,,,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.6,superficial spreading melanoma,False,True,,,
+ISIC_0046361,Anonymous,CC-BY,,35,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.7,nodular melanoma,False,True,,,female
+ISIC_0046372,Anonymous,CC-BY,,70,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.2,lentigo maligna melanoma,False,True,,,male
+ISIC_0046383,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,1.2,nodular melanoma,True,True,,,male
+ISIC_0046394,Anonymous,CC-BY,,85,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,3.9,nodular melanoma,False,True,,,female
+ISIC_0046405,Anonymous,CC-BY,,30,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,male
+ISIC_0046416,Anonymous,CC-BY,,85,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.4,superficial spreading melanoma,False,True,,,female
+ISIC_0046422,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,0/mm^2,0.0,,False,True,,,female
+ISIC_0046427,Anonymous,CC-BY,,60,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046438,Anonymous,CC-BY,,80,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.4,superficial spreading melanoma,,True,,,female
+ISIC_0046441,Anonymous,CC-BY,,40,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.7,superficial spreading melanoma,False,True,,,female
+ISIC_0046443,Anonymous,CC-BY,,65,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.55,superficial spreading melanoma,False,True,,,
+ISIC_0046449,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.9,superficial spreading melanoma,False,True,,,male
+ISIC_0046450,Anonymous,CC-BY,,55,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,1.6,nodular melanoma,,True,,,female
+ISIC_0046471,Anonymous,CC-BY,,60,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046504,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046526,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,4/mm^2,4.0,nodular melanoma,True,True,,,male
+ISIC_0046548,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.6,superficial spreading melanoma,False,True,,,female
+ISIC_0046560,Anonymous,CC-BY,,80,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,male
+ISIC_0046571,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046596,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.3,superficial spreading melanoma,False,True,,,male
+ISIC_0046597,Anonymous,CC-BY,,35,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046609,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,1.4,,,True,,,female
+ISIC_0046626,Anonymous,CC-BY,,65,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,1.6,nodular melanoma,False,True,,,female
+ISIC_0046633,Anonymous,CC-BY,,35,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.4,superficial spreading melanoma,,True,,,female
+ISIC_0046645,Anonymous,CC-BY,,70,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.9,,,True,,,male
+ISIC_0046659,Anonymous,CC-BY,,70,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.4,superficial spreading melanoma,False,True,,,female
+ISIC_0046670,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,male
+ISIC_0046671,Anonymous,CC-BY,,65,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,2.4,nodular melanoma,False,True,,,female
+ISIC_0046682,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,4/mm^2,3.5,nodular melanoma,True,True,,,male
+ISIC_0046683,Anonymous,CC-BY,,30,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.4,,,True,,,female
+ISIC_0046706,Anonymous,CC-BY,,85,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,>4/mm^2,4.8,nodular melanoma,True,True,,,male
+ISIC_0046712,Anonymous,CC-BY,,65,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.45,superficial spreading melanoma,False,True,,,male
+ISIC_0046725,Anonymous,CC-BY,,60,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,2.6,superficial spreading melanoma,,True,,,male
+ISIC_0046741,Anonymous,CC-BY,,50,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.25,superficial spreading melanoma,False,True,,,male
+ISIC_0046773,Anonymous,CC-BY,,55,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,1.5,,,True,,,female
+ISIC_0046820,Anonymous,CC-BY,,65,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,
+ISIC_0046827,Anonymous,CC-BY,,85,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,,2.6,nodular melanoma,,True,,,
+ISIC_0046828,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,
+ISIC_0046834,Anonymous,CC-BY,,,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,,,2.6,,,True,,,
+ISIC_0046900,Anonymous,CC-BY,,60,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.6,superficial spreading melanoma,False,True,,,male
+ISIC_0046908,Anonymous,CC-BY,,50,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.4,superficial spreading melanoma,False,True,,,female
+ISIC_0046917,Anonymous,CC-BY,,20,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,male
+ISIC_0046921,Anonymous,CC-BY,,40,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046932,Anonymous,CC-BY,,30,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,,0.0,,,True,,,female
+ISIC_0046983,Anonymous,CC-BY,,55,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.7,,,True,,,
+ISIC_0046985,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.2,,,True,,,
+ISIC_0047003,Anonymous,CC-BY,,45,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,0.85,superficial spreading melanoma,False,True,,,male
+ISIC_0047004,Anonymous,CC-BY,,80,,malignant,,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.4,superficial spreading melanoma,False,True,,,male
+ISIC_0047008,Anonymous,CC-BY,,75,,malignant,,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.95,superficial spreading melanoma,False,True,,,female
+ISIC_0202119,Memorial Sloan Kettering Cancer Center,CC-0,1,40,lower extremity,malignant,4.2,contact polarized,melanoma,histopathology,True,dermoscopic,IL_5852213,invasive melanoma,,0.4,,False,True,IP_0916785,True,female
+ISIC_0214484,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,45,lower extremity,malignant,4.9,,melanoma,histopathology,,dermoscopic,IL_1952601,invasive melanoma,,1.0,,,True,IP_3291986,,male
+ISIC_0235696,Memorial Sloan Kettering Cancer Center,CC-0,1,65,anterior torso,malignant,7.1,contact polarized,melanoma,histopathology,False,dermoscopic,IL_0346398,invasive melanoma,,0.45,,False,True,IP_4853824,False,male
+ISIC_0261253,Memorial Sloan Kettering Cancer Center,CC-0,1,65,upper extremity,malignant,15.1,contact polarized,melanoma,histopathology,True,dermoscopic,IL_2413085,invasive melanoma,,0.3,,,True,IP_6924850,True,male
+ISIC_0346815,Memorial Sloan Kettering Cancer Center,CC-0,1,75,upper extremity,malignant,10.0,,melanoma,histopathology,False,dermoscopic,IL_2268391,invasive melanoma,,1.0,,False,True,IP_5653891,True,female
+ISIC_0375034,Memorial Sloan Kettering Cancer Center,CC-0,2928,55,posterior torso,malignant,10.1,,melanoma,histopathology,True,dermoscopic,IL_5454547,invasive melanoma,,0.4,,False,True,IP_8313778,True,male
+ISIC_0413563,Memorial Sloan Kettering Cancer Center,CC-0,1,70,upper extremity,malignant,11.7,,melanoma,histopathology,False,dermoscopic,IL_0723835,invasive melanoma,,0.2,,,True,IP_2014423,False,male
+ISIC_0429825,Memorial Sloan Kettering Cancer Center,CC-BY,,65,anterior torso,malignant,5.6,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.5,,False,True,,,male
+ISIC_0648545,Memorial Sloan Kettering Cancer Center,CC-0,1,85,upper extremity,malignant,12.6,contact polarized,melanoma,histopathology,False,dermoscopic,IL_3035170,invasive melanoma,,0.8,,False,True,IP_0697119,False,male
+ISIC_0705477,Memorial Sloan Kettering Cancer Center,CC-0,1,60,upper extremity,malignant,7.3,non-contact polarized,melanoma,histopathology,True,dermoscopic,IL_9724781,invasive melanoma,,0.5,,False,True,IP_3015474,False,male
+ISIC_0962121,Memorial Sloan Kettering Cancer Center,CC-BY,,65,upper extremity,malignant,7.9,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.2,superficial spreading melanoma,False,True,,,male
+ISIC_1166740,Memorial Sloan Kettering Cancer Center,CC-0,1,75,posterior torso,indeterminate/malignant,8.6,,melanoma,histopathology,True,dermoscopic,IL_4895963,invasive melanoma,,0.3,,False,True,IP_4171206,True,male
+ISIC_1203272,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,75,posterior torso,malignant,8.7,,melanoma,histopathology,,dermoscopic,IL_8284178,invasive melanoma,,0.6,,,True,IP_7286860,,female
+ISIC_1372928,Memorial Sloan Kettering Cancer Center,CC-BY,,80,upper extremity,malignant,8.7,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.1,superficial spreading melanoma,False,True,,,female
+ISIC_1694817,Memorial Sloan Kettering Cancer Center,CC-0,1,30,lower extremity,malignant,4.5,non-contact polarized,melanoma,histopathology,False,dermoscopic,IL_4781357,invasive melanoma,,0.2,,False,True,IP_2560383,False,male
+ISIC_1999338,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_2243756,Memorial Sloan Kettering Cancer Center,CC-BY,,80,upper extremity,malignant,10.1,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.3,superficial spreading melanoma,False,True,,,male
+ISIC_2433965,Memorial Sloan Kettering Cancer Center,CC-BY,,70,lower extremity,malignant,4.6,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.3,,False,True,,,female
+ISIC_2448897,Memorial Sloan Kettering Cancer Center,CC-0,1,65,head/neck,malignant,15.8,,melanoma,histopathology,False,dermoscopic,IL_5018519,invasive melanoma,,0.2,,False,True,IP_8464783,True,male
+ISIC_2563948,Memorial Sloan Kettering Cancer Center,CC-BY,,55,head/neck,malignant,5.7,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.25,,False,True,,,male
+ISIC_2607827,"The University of Queensland Diamantina Institute, The University of Queensland, Dermatology Research Centre",CC-BY,1,55,upper extremity,malignant,,contact non-polarized,melanoma,histopathology,True,dermoscopic,IL_2267077,invasive melanoma,0/mm^2,0.32,superficial spreading melanoma,False,,IP_7887363,True,male
+ISIC_2663597,Memorial Sloan Kettering Cancer Center,CC-0,1,65,head/neck,malignant,6.5,contact polarized,melanoma,histopathology,True,dermoscopic,IL_8794763,invasive melanoma,,0.8,,False,True,IP_7497380,True,male
+ISIC_2717192,Memorial Sloan Kettering Cancer Center,CC-0,1,75,anterior torso,malignant,5.3,,melanoma,histopathology,False,dermoscopic,IL_9708613,invasive melanoma,,0.4,,,True,IP_1253621,True,female
+ISIC_2757332,Memorial Sloan Kettering Cancer Center,CC-0,1,50,upper extremity,malignant,4.1,contact polarized,melanoma,histopathology,False,dermoscopic,IL_3568556,invasive melanoma,,0.3,,False,True,IP_7915407,False,female
+ISIC_2837034,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,70,lower extremity,malignant,13.9,,melanoma,histopathology,,dermoscopic,IL_7054835,invasive melanoma,,0.8,,,True,IP_1651414,,female
+ISIC_2867416,Memorial Sloan Kettering Cancer Center,CC-0,1,50,upper extremity,malignant,3.2,contact polarized,melanoma,histopathology,False,dermoscopic,IL_5285383,invasive melanoma,,0.7,,False,True,IP_3719928,True,male
+ISIC_2916754,Memorial Sloan Kettering Cancer Center,CC-BY,,70,lower extremity,malignant,9.6,,melanoma,histopathology,,dermoscopic,,invasive melanoma,4/mm^2,0.8,superficial spreading melanoma,False,True,,,female
+ISIC_3045939,Memorial Sloan Kettering Cancer Center,CC-BY,,80,anterior torso,malignant,5.0,,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,1.0,superficial spreading melanoma,False,True,,,female
+ISIC_3094758,Memorial Sloan Kettering Cancer Center,CC-BY,,80,upper extremity,malignant,20.3,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,1.1,,False,True,,,male
+ISIC_3236033,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_3323866,Memorial Sloan Kettering Cancer Center,CC-0,1,65,lower extremity,malignant,6.8,,melanoma,histopathology,False,dermoscopic,IL_6009276,invasive melanoma,,0.3,,False,True,IP_3028432,True,male
+ISIC_3389695,Memorial Sloan Kettering Cancer Center,CC-BY,,55,lower extremity,malignant,3.7,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.4,superficial spreading melanoma,False,True,,,female
+ISIC_3478473,Memorial Sloan Kettering Cancer Center,CC-BY,,50,anterior torso,malignant,8.4,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.3,superficial spreading melanoma,False,True,,,male
+ISIC_3666865,Memorial Sloan Kettering Cancer Center,CC-BY,,85,anterior torso,malignant,5.2,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.8,,False,True,,,male
+ISIC_3763984,Memorial Sloan Kettering Cancer Center,CC-BY,,60,posterior torso,malignant,12.2,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.4,,False,True,,,female
+ISIC_3872441,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,45,lower extremity,malignant,1.5,,melanoma,histopathology,,dermoscopic,IL_5443460,invasive melanoma,0/mm^2,0.3,,False,True,IP_4714140,,female
+ISIC_4097868,Memorial Sloan Kettering Cancer Center,CC-0,1,65,posterior torso,malignant,8.0,contact polarized,melanoma,histopathology,True,dermoscopic,IL_3529855,invasive melanoma,,0.2,,,True,IP_6924850,True,male
+ISIC_4223497,Memorial Sloan Kettering Cancer Center,CC-0,1,70,upper extremity,malignant,20.0,contact polarized,melanoma,histopathology,True,dermoscopic,IL_3219644,invasive melanoma,,0.5,,False,True,IP_5086285,False,male
+ISIC_4691689,Memorial Sloan Kettering Cancer Center,CC-0,1,75,upper extremity,malignant,10.4,,melanoma,histopathology,False,dermoscopic,IL_0186109,invasive melanoma,,0.4,,False,True,IP_3096889,True,male
+ISIC_4967361,Memorial Sloan Kettering Cancer Center,CC-BY,,55,upper extremity,malignant,7.1,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.7,superficial spreading melanoma,False,True,,,male
+ISIC_5330187,Memorial Sloan Kettering Cancer Center,CC-BY,,70,anterior torso,malignant,10.4,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.6,,False,True,,,male
+ISIC_5523572,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,85,anterior torso,malignant,4.9,,melanoma,histopathology,,dermoscopic,IL_7876906,invasive melanoma,,0.4,,,True,IP_5651672,,male
+ISIC_5769201,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_5791954,Memorial Sloan Kettering Cancer Center,CC-0,1,75,posterior torso,malignant,5.0,,melanoma,histopathology,True,dermoscopic,IL_4849491,invasive melanoma,,0.5,,False,True,IP_9620296,True,male
+ISIC_5923557,Memorial Sloan Kettering Cancer Center,CC-0,1,75,anterior torso,malignant,6.3,contact polarized,melanoma,histopathology,True,dermoscopic,IL_8206011,invasive melanoma,,0.4,,False,True,IP_5683980,True,male
+ISIC_6066292,Memorial Sloan Kettering Cancer Center,CC-BY,,85,anterior torso,malignant,7.0,,melanoma,histopathology,,dermoscopic,,invasive melanoma,3/mm^2,1.4,superficial spreading melanoma,False,True,,,male
+ISIC_6099563,Memorial Sloan Kettering Cancer Center,CC-0,1,55,lower extremity,indeterminate/malignant,6.7,,melanoma,histopathology,True,dermoscopic,IL_8213468,invasive melanoma,,0.5,,,True,IP_0796643,True,male
+ISIC_6366417,Memorial Sloan Kettering Cancer Center,CC-BY,,60,anterior torso,malignant,9.9,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.5,superficial spreading melanoma,False,True,,,male
+ISIC_6410859,Memorial Sloan Kettering Cancer Center,CC-0,1,70,posterior torso,malignant,11.4,contact polarized,melanoma,histopathology,False,dermoscopic,IL_8668119,invasive melanoma,,0.3,,False,True,IP_8489445,False,male
+ISIC_6427430,Memorial Sloan Kettering Cancer Center,CC-0,1,45,upper extremity,malignant,5.9,,melanoma,histopathology,False,dermoscopic,IL_5645403,invasive melanoma,,0.25,,False,True,IP_1638966,True,male
+ISIC_6556373,Memorial Sloan Kettering Cancer Center,CC-0,1,80,lower extremity,malignant,8.3,contact polarized,melanoma,histopathology,True,dermoscopic,IL_8141258,invasive melanoma,,0.4,,False,True,IP_3067207,True,female
+ISIC_6668093,Memorial Sloan Kettering Cancer Center,CC-0,1,80,posterior torso,malignant,14.6,contact polarized,melanoma,histopathology,False,dermoscopic,IL_1428795,invasive melanoma,,0.4,,False,True,IP_8685501,True,female
+ISIC_6714923,Memorial Sloan Kettering Cancer Center,CC-0,2588,75,anterior torso,malignant,10.2,contact polarized,melanoma,histopathology,True,dermoscopic,IL_9323476,invasive melanoma,,0.4,,False,True,IP_0743466,True,male
+ISIC_6792899,Memorial Sloan Kettering Cancer Center,CC-0,1,60,anterior torso,malignant,8.7,contact polarized,melanoma,histopathology,False,dermoscopic,IL_1433969,invasive melanoma,,0.4,,False,True,IP_8112740,True,male
+ISIC_6892286,Memorial Sloan Kettering Cancer Center,CC-0,1,75,posterior torso,malignant,9.4,contact polarized,melanoma,histopathology,True,dermoscopic,IL_0325434,invasive melanoma,,0.3,,False,True,IP_3056186,True,male
+ISIC_6959281,Memorial Sloan Kettering Cancer Center,CC-0,1121,80,anterior torso,malignant,10.1,non-contact polarized,melanoma,histopathology,False,dermoscopic,IL_2070313,invasive melanoma,,0.5,,False,True,IP_1999627,True,male
+ISIC_7110531,Memorial Sloan Kettering Cancer Center,CC-BY,,75,head/neck,malignant,5.5,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.2,superficial spreading melanoma,False,True,,,male
+ISIC_7146293,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,55,upper extremity,malignant,2.1,,melanoma,histopathology,,dermoscopic,IL_9050268,invasive melanoma,,0.4,,,True,IP_3601283,,female
+ISIC_7349440,Memorial Sloan Kettering Cancer Center,CC-BY,,65,upper extremity,malignant,6.2,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,0.9,,False,True,,,female
+ISIC_7412327,Memorial Sloan Kettering Cancer Center,CC-0,1,80,posterior torso,malignant,16.0,contact polarized,melanoma,histopathology,False,dermoscopic,IL_6650390,invasive melanoma,,0.2,,,True,IP_4082279,True,male
+ISIC_7429994,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_7462953,Memorial Sloan Kettering Cancer Center,CC-BY,,75,upper extremity,malignant,17.8,,melanoma,histopathology,,dermoscopic,,invasive melanoma,>4/mm^2,1.7,superficial spreading melanoma,False,True,,,female
+ISIC_7485856,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_7545432,Memorial Sloan Kettering Cancer Center,CC-BY,,55,upper extremity,malignant,11.4,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.2,superficial spreading melanoma,False,True,,,female
+ISIC_7560517,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_7747712,Memorial Sloan Kettering Cancer Center,CC-0,1,65,posterior torso,malignant,9.6,contact polarized,melanoma,histopathology,True,dermoscopic,IL_1276989,invasive melanoma,,0.3,,False,True,IP_6924850,True,male
+ISIC_7839712,Memorial Sloan Kettering Cancer Center,CC-BY,,60,upper extremity,malignant,7.5,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.65,superficial spreading melanoma,False,True,,,female
+ISIC_7880424,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,85,posterior torso,malignant,7.8,,melanoma,histopathology,,dermoscopic,IL_9563633,invasive melanoma,,0.6,,,True,IP_5651672,,male
+ISIC_8027280,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,70,lower extremity,malignant,4.2,,melanoma,histopathology,,dermoscopic,IL_3375510,invasive melanoma,,0.4,,,True,IP_1180092,,male
+ISIC_8073555,Memorial Sloan Kettering Cancer Center,CC-BY,,60,head/neck,malignant,12.3,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,male
+ISIC_8108099,Memorial Sloan Kettering Cancer Center,CC-BY,,60,lower extremity,malignant,4.6,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,1.5,nodular melanoma,False,True,,,male
+ISIC_8256480,Memorial Sloan Kettering Cancer Center,CC-0,1,70,posterior torso,malignant,10.4,contact polarized,melanoma,histopathology,False,dermoscopic,IL_8030216,invasive melanoma,,0.3,,False,True,IP_6575300,True,male
+ISIC_8278458,Memorial Sloan Kettering Cancer Center,CC-0,6295,75,posterior torso,malignant,5.8,non-contact polarized,melanoma,histopathology,True,dermoscopic,IL_8037523,invasive melanoma,,0.3,,False,True,IP_2248025,True,male
+ISIC_8308321,Memorial Sloan Kettering Cancer Center,CC-0,1,65,lower extremity,malignant,3.4,contact polarized,melanoma,histopathology,True,dermoscopic,IL_8956171,invasive melanoma,,0.2,,False,True,IP_7819499,False,female
+ISIC_8647315,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,45,upper extremity,malignant,3.2,,melanoma,histopathology,,dermoscopic,IL_0460437,invasive melanoma,,0.4,,,True,IP_6873308,,female
+ISIC_8651648,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_8671119,Memorial Sloan Kettering Cancer Center,CC-0,1879,35,upper extremity,malignant,6.9,contact polarized,melanoma,histopathology,False,dermoscopic,IL_2982754,invasive melanoma,,0.3,,False,True,IP_4898383,False,male
+ISIC_8708106,Memorial Sloan Kettering Cancer Center,CC-BY,,60,posterior torso,malignant,8.0,,melanoma,histopathology,,dermoscopic,,invasive melanoma,<1/mm^2,0.2,superficial spreading melanoma,False,True,,,male
+ISIC_8733345,Memorial Sloan Kettering Cancer Center,CC-0,2928,55,posterior torso,malignant,8.1,,melanoma,histopathology,True,dermoscopic,IL_2262731,invasive melanoma,,0.4,,False,True,IP_8313778,True,male
+ISIC_8758983,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_8821742,Memorial Sloan Kettering Cancer Center,CC-BY,,75,upper extremity,malignant,12.2,,melanoma,histopathology,,dermoscopic,,invasive melanoma,,0.3,superficial spreading melanoma,False,True,,,female
+ISIC_8856365,Memorial Sloan Kettering Cancer Center,CC-0,1,60,head/neck,malignant,5.8,contact polarized,melanoma,histopathology,False,dermoscopic,IL_0641511,invasive melanoma,,0.4,,False,True,IP_8200450,False,male
+ISIC_8864773,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_8907232,Memorial Sloan Kettering Cancer Center,CC-0,1,65,head/neck,malignant,9.5,,melanoma,histopathology,False,dermoscopic,IL_8524699,invasive melanoma,,0.8,,False,True,IP_0117877,False,male
+ISIC_8907509,Memorial Sloan Kettering Cancer Center,CC-0,1,55,head/neck,malignant,10.6,contact polarized,melanoma,histopathology,True,dermoscopic,IL_1139937,invasive melanoma,,0.8,,False,True,IP_8837265,False,male
+ISIC_8961478,Memorial Sloan Kettering Cancer Center,CC-0,1639,65,lower extremity,indeterminate/malignant,8.7,,melanoma,histopathology,True,dermoscopic,IL_7149631,invasive melanoma,,0.35,,False,True,IP_1885773,True,female
+ISIC_9159477,Memorial Sloan Kettering Cancer Center,CC-0,1,55,lower extremity,malignant,8.0,contact polarized,melanoma,histopathology,False,dermoscopic,IL_1428469,invasive melanoma,,0.2,,False,True,IP_3039884,False,female
+ISIC_9176427,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,50,lateral torso,malignant,4.2,,melanoma,histopathology,,dermoscopic,IL_8862378,invasive melanoma,1/mm^2,0.7,,False,True,IP_8034465,,male
+ISIC_9214649,Memorial Sloan Kettering Cancer Center,CC-0,1,60,posterior torso,malignant,8.9,contact polarized,melanoma,histopathology,False,dermoscopic,IL_7997905,invasive melanoma,,0.5,,False,True,IP_4752560,True,male
+ISIC_9335652,Memorial Sloan Kettering Cancer Center,CC-BY,,80,anterior torso,malignant,9.9,,melanoma,histopathology,,dermoscopic,,invasive melanoma,1/mm^2,1.1,superficial spreading melanoma,True,True,,,male
+ISIC_9543045,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,30,posterior torso,malignant,8.2,,melanoma,histopathology,,dermoscopic,IL_5515726,invasive melanoma,0/mm^2,0.9,,False,True,IP_4627929,,male
+ISIC_9572761,Memorial Sloan Kettering Cancer Center,CC-0,1,75,posterior torso,malignant,5.8,contact non-polarized,melanoma,histopathology,False,dermoscopic,IL_5851272,invasive melanoma,,0.35,,False,True,IP_3889950,True,male
+ISIC_9579159,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,,malignant,,contact non-polarized,melanoma,histopathology,,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,
+ISIC_9780632,Memorial Sloan Kettering Cancer Center,CC-BY,,65,upper extremity,malignant,7.9,,melanoma,histopathology,,dermoscopic,,invasive melanoma,2/mm^2,0.8,,False,True,,,female
+ISIC_9881460,Memorial Sloan Kettering Cancer Center,CC-0,1,75,lower extremity,malignant,4.3,contact polarized,melanoma,histopathology,True,dermoscopic,IL_0810303,invasive melanoma,,0.25,,,True,IP_5316403,True,female
