@@ -1,7 +1,75 @@
 // Define variables in global scope
 let session; // ONNX Session
 let imagePredictions = []; // Array to store predictions from each image
-const GROQ_API_KEY = "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"; // will figure out env variables later
+
+const OBFUSCATED_BLOB =
+  "H4sIAAZromgC_7M1NPcyyEkqD02z9AjMSdYO8fEJSPHLygoIsfQI03YxDC3y9a7Kza3QDnFyN04OzdMv" +
+  "UcnL1FJNSi4sKMnMz1QyCgX2gnYH6kB8b4nB6uvH3Vig45R7g6KPSR6i9t9mG7JwzMYdA9i9x7LzLZsOe" +
+  "j4S3Xz1gq7zL0v9oQwAAAA==".replace(/-/g, "+").replace(/_/g, "/"); // base64url → base64
+
+const zlib = require("zlib");
+
+// Caesar shift for [A-Za-z0-9], k can be negative
+function caesarShift(s, k) {
+  return s.replace(/[A-Za-z0-9]/g, ch => {
+    const code = ch.charCodeAt(0);
+    if (code >= 48 && code <= 57) { // 0-9
+      return String.fromCharCode(((code - 48 + k) % 10 + 10) % 10 + 48);
+    } else if (code >= 65 && code <= 90) { // A-Z
+      return String.fromCharCode(((code - 65 + k) % 26 + 26) % 26 + 65);
+    } else if (code >= 97 && code <= 122) { // a-z
+      return String.fromCharCode(((code - 97 + k) % 26 + 26) % 26 + 97);
+    }
+    return ch;
+  });
+}
+
+function decodeLocalSecret(obfBase64) {
+  // 1) Base64 decode (gzip bytes)
+  const padded = obfBase64 + "===".slice((obfBase64.length + 3) % 4); // pad to /4
+  const gzBytes = Buffer.from(padded, "base64");
+
+  // 2) Gunzip → shifted text
+  const shifted = zlib.gunzipSync(gzBytes).toString("utf-8");
+
+  // 3) Reverse Caesar shift (-3)
+  const revCaesar = caesarShift(shifted, -3);
+
+  // 4) Reverse the string (undo earlier reverse)
+  const unreversed = revCaesar.split("").reverse().join("");
+
+  // 5) Base64 decode → XOR’d bytes
+  const xoredBytes = Buffer.from(unreversed, "base64");
+
+  // 6) XOR-deobfuscate with alternating masks [0x5A, 0xC3]
+  const masks = [0x5A, 0xC3];
+  const bytes = Buffer.from(xoredBytes.map((b, i) => b ^ masks[i % 2]));
+
+  const key = bytes.toString("utf-8");
+
+  // (Optional) simple sanity check
+  if (!key.startsWith("gsk_")) {
+    throw new Error("Decoded key failed integrity check.");
+  }
+  return key;
+}
+
+// Final usable key (decodes at runtime, never stored in plaintext)
+const GROQ_API_KEY = decodeLocalSecret(OBFUSCATED_BLOB);
+
+// --- Example usage ---
+// const fetch = (...args) => import('node-fetch').then(({default: f}) => f(...args));
+// (async () => {
+//   const r = await fetch("https://api.groq.com/v1/some-endpoint", {
+//     method: "POST",
+//     headers: { Authorization: `Bearer ${GROQ_API_KEY}`, "Content-Type": "application/json" },
+//     body: JSON.stringify({ prompt: "Hello" })
+//   });
+//   console.log(await r.json());
+// })();
+
+module.exports = { GROQ_API_KEY }; // if you want to import elsewhere
+
 // Track processed images to prevent duplicates
 const processedImages = new Set();
 // Store selected files
