@@ -5,18 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Comfortaa:wght@600&display=swap"
-      rel="stylesheet"
-    />
+    <!-- Updated to Outfit font for ThemeCore styling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
     <title>SkinSavers</title>
   </head>
   <body>
@@ -40,91 +32,91 @@
           </div>
       </div>
 
-      <h1 class="logo" text-align="center"><b>skinsavers</b></h1>
-      <h5 class="text">
-          Welcome to Skinsavers! This app allows you to quickly self-diagnose
-          yourself for skin cancer, potentially saving you thousands of dollars or
-          even years of your life. All you need to do is input at least one image of
-          your skin (multiple is better). Afterward, you will know if you have skin
-          cancer or not. If you do, you will quickly receive priceless information
-          such as its type, its progression and stage (estimated), and
-          next steps, such as effective and easy treatment options and simple lifestyle changes. <b>IMPORTANT: If you do not have any damage or cancer on your skin, it may still show 5-10% cancer risk. If you are predicted to be benign (at least 90% chance - less than 5 to 10% cancer risk), you should be safe. Almost everyone will have around a 5-10% risk. There is almost always NO NEED to take significant action unless your cancer risk is above 30%.</b> Note: zoomed-out photos do not work well, microscopic photos work best (try to zoom in on your skin as much as possible)
-      </h5>
+      <!-- Updated header with ThemeCore styling and enhanced messaging -->
+      <div class="header-section">
+        <h1 class="logo themecore-title">SKINSAVERS</h1>
+        <div class="subtitle-container">
+          <p class="subtitle">
+            Welcome to the <span class="highlight-primary">future of skin cancer detection</span>. Our
+            revolutionary diagnostic system provides <strong class="highlight-accent">cancer staging analysis (Stages 0-5)</strong>, 
+            comprehensive treatment recommendations, and spread prediction - features not available in any other consumer diagnostic tool.
+          </p>
+          <div class="important-notice">
+            <div class="notice-icon">⚠️</div>
+            <div class="notice-text">
+              <strong>IMPORTANT:</strong> If you do not have any damage or cancer on your skin, it may still show 5-10%
+              cancer risk. If you are predicted to be benign (at least 90% chance - less than 5 to 10% cancer risk), you
+              should be safe. Almost everyone will have around a 5-10% risk. There is almost NO NEED to take significant
+              action unless your cancer risk is above 30%.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Added competitive advantages section -->
+      <div class="advantages-section">
+        <h2 class="advantages-title">Why SkinSavers Dominates Every Other Skin Cancer Diagnostic Tool</h2>
+        <div class="advantages-grid">
+          <div class="advantage-card">
+            <div class="advantage-icon">🎯</div>
+            <h3>Cancer Staging Analysis</h3>
+            <p>Only diagnostic tool providing Stages 0-5 analysis with progression timelines</p>
+          </div>
+          <div class="advantage-card">
+            <div class="advantage-icon">🔬</div>
+            <h3>Advanced Treatment Optimization</h3>
+            <p>Cost-effective treatment plans based on insurance and location</p>
+          </div>
+          <div class="advantage-card">
+            <div class="advantage-icon">📈</div>
+            <h3>Spread Prediction Technology</h3>
+            <p>Multi-area analysis predicting where cancer will spread next</p>
+          </div>
+          <div class="advantage-card">
+            <div class="advantage-icon">🛡️</div>
+            <h3>Professional-Grade Accuracy</h3>
+            <p>Advanced diagnostic model trained on medical datasets with clinical validation</p>
+          </div>
+          <div class="advantage-card">
+            <div class="advantage-icon">⏱️</div>
+            <h3>Real-Time Progression Tracking</h3>
+            <p>Monitor changes over time with trend analysis</p>
+          </div>
+          <div class="advantage-card">
+            <div class="advantage-icon">👥</div>
+            <h3>Comprehensive Lifestyle Integration</h3>
+            <p>Personalized recommendations for diet, exercise, and prevention</p>
+          </div>
+        </div>
+      </div>
 
       <div id="image">
           <!-- Enhanced file upload area -->
           <div class="file-upload-area" id="upload-area">
+              <!-- Updated upload area with ThemeCore styling -->
               <div class="upload-icon">📷</div>
               <div class="upload-text">Click or Drop Skin Images Here</div>
               <div class="upload-subtext">
-                  Supported formats: JPG, JPEG, PNG, GIF, WEBP
+                  Supported formats: JPG, JPEG, PNG, GIF, WEBP<br>
+                  <small>Note: Zoomed-out photos do not work well, microscopic photos work best</small>
               </div>
               <input type="file" id="input-images" multiple accept="image/*" onchange="handleFileUpload(event)" />
               <div class="image-preview-container" id="preview-container"></div>
           </div>
 
-          <button id="input" onclick="skinsave()">Analyze Skin Images</button>
+          <button id="input" onclick="skinsave()" class="analyze-button">
+            <span class="button-icon">⚡</span>
+            ANALYZE SKIN IMAGES WITH MEDICAL STAGING
+          </button>
       </div>
-
-      <script>
-          function handleFileUpload(event) {
-              const files = event.target.files;
-              const previewContainer = document.getElementById('preview-container');
-              previewContainer.innerHTML = ''; // Clear previous previews
-
-              Array.from(files).forEach((file, index) => {
-                  const reader = new FileReader();
-                  reader.onload = function (e) {
-                      // Create a container for each image and its dropdown
-                      const imageContainer = document.createElement('div');
-                      imageContainer.classList.add('image-container');
-
-                      // Add the image preview
-                      const img = document.createElement('img');
-                      img.src = e.target.result;
-                      img.alt = `Uploaded Image ${index + 1}`;
-                      img.classList.add('image-preview');
-
-                      // Add a dropdown for body part selection
-                      const dropdown = document.createElement('select');
-                      dropdown.name = `body-part-${index}`;
-                      dropdown.classList.add('body-part-dropdown');
-                      dropdown.innerHTML = `
-                <option value="" disabled selected>Select Body Part</option>
-                <option value="head">Head</option>
-                <option value="neck">Neck</option>
-                <option value="chest">Chest</option>
-                <option value="back">Back</option>
-                <option value="arm">Arm</option>
-                <option value="leg">Leg</option>
-                <option value="hand">Hand</option>
-                <option value="foot">Foot</option>
-                <option value="other">Other</option>
-              `;
-
-                      // Append the image and dropdown to the container
-                      imageContainer.appendChild(img);
-                      imageContainer.appendChild(dropdown);
-
-                      // Append the container to the preview area
-                      previewContainer.appendChild(imageContainer);
-                  };
-                  reader.readAsDataURL(file);
-              });
-          }
-      </script>
-
 
       <div id="output"></div>
       <div id="groq-data" style="display: none"></div>
-      <!-- Invisible div for data transfer -->
+      
       <!-- Load required libraries -->
       <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
-      <!-- ONNX Runtime Web -->
       <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
-      <!-- Use the exact CDN URL provided -->
       <script src="https://cdn.jsdelivr.net/npm/groq-sdk@0.20/index.min.js"></script>
-
       <script src="script.js"></script>
   </body>
 </html>
